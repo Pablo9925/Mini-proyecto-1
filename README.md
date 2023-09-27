@@ -3,4 +3,6 @@
 
 \
 Integrantes: Juan Pablo Areiza, David Alexander Sánchez
+
+\
 Docente: Hernán Felipe García
